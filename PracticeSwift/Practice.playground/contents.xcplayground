@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='decision'/>
+        <page name='basics'/>
+        <page name='switch'/>
+        <page name='controlFlow'/>
+        <page name='functions-part-1'/>
+        <page name='functions-part-2'/>
+        <page name='classes'/>
+        <page name='inheritance'/>
+        <page name='UIKit'/>
+        <page name='init-part-1'/>
+        <page name='init-part-2'/>
+        <page name='optionals'/>
+        <page name='properties'/>
+        <page name='arrays'/>
+        <page name='dictionary'/>
+    </pages>
+</playground>
